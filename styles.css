@@ -308,4 +308,17 @@ footer {
     height: auto;
     width: 100%;
     }
+
+
+    .section{
+        padding: 0;
+    }
+    .servicios div {
+        width: 100%;
+        padding: 15px;
+    }
+
+    
+        
+    
 }
